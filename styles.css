@@ -1,0 +1,68 @@
+h1 {
+  color: purple;
+}
+
+h2 {
+  color: blue;
+}
+
+body {
+  background-color: pink;
+}
+
+img {
+    height: 200px;
+    width: 20%;
+}
+
+button {
+  background-color: magenta;
+  color: white;
+  font-size: 16px;
+}
+
+#gif {
+    height: 200px;
+    width: 25%;
+}
+
+#gif2 {
+    height: 200px;
+    width: 25%;
+}
+
+#gif3 {
+    height: 200px;
+    width: 20%;
+}
+
+#gif4 {
+    height: 200px;
+    width: 20%;
+}
+
+#gif5 {
+    height: 200px;
+    width: 20%;
+}
+
+#body2 {
+  background-color: pink;
+}
+
+#h2pg2 {
+  color: blue;
+}
+
+#link {
+  color: magenta;
+  font-size: 25px;
+}
+
+#maplink {
+  color: magenta;
+}
+
+#fun {
+  font-size: 30px;
+}
